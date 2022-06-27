@@ -47,3 +47,25 @@ background kuva
 }
 
 ghost div hover, opacity 0 -> 0.5
+
+-----
+jatko kehitys doc on siihen toiseen juttuun, osto ja myynti
+-----
+
+27.6.2022
+eka sessio
+
+muista käyttää bootstrap
+
+hiomista
+
+logo vasen ylä
+nav oikea ylä
+red alue ghost box kun hover
+taustakuva loppuu red alueeseen
+alkaa uudestaan sen alla
+se alapuoli on tummempi
+
+sitten muuta pientä
+
+-----
