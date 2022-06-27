@@ -1,0 +1,49 @@
+Bootstrap
+
+https://getbootstrap.com/docs/5.2/getting-started/introduction/
+https://getbootstrap.com/docs/4.6/getting-started/introduction/
+
+
+
+
+miltä pitäis näyttää
+
+iso yläosa
+taustakuva
+yläkulmassa oikealla nav
+vasemmalla ylä logo
+oikealla keskellä noin
+quote, tekstiä
+
+keskikohta
+kolme palikkaa
+jokainen nappi tavallaan
+jokaisessa oma kuva
+jokaisessa punaista
+tekstiä
+
+footer
+joku teksti
+nappulalogojuttu
+
+miten toimii kuvaruutua venyteltäessä
+yläosa pääkuva jää keskijutun alle
+
+jos litistää reunoilta
+punaset palikat menee päällekkäin
+yläosan quote pysyy ruudulla
+liikkuu ruudun mukana tms
+
+nested?
+
+
+red image
+div linkki
+background kuva
+
+.red-right {
+    background: linear-gradient(rgba(129, 0, 0, 0.75), rgba(129, 0, 0, 0.75)),
+    url("assets/images/red-right.jpg");   
+}
+
+ghost div hover, opacity 0 -> 0.5

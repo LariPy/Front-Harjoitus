@@ -1,0 +1,81 @@
+body {
+    background-image: url("assets/images/top-bg.png");
+}
+
+.row {
+    
+}
+
+.col-sm- {
+    
+}
+
+
+/* Header */
+
+/* Navbar */
+.section-nav-head {
+    
+}
+
+.navbar {
+    
+}
+
+.navlogo-col {
+
+}
+
+.navbar-col {
+    
+}
+
+.navbar-nav {
+    position: fixed;
+    top: 8px;
+    right: 16px;
+}
+
+
+/* Quote */
+.quote {
+    width: 500px;
+}
+
+
+/* Red */
+.section-red {
+    
+}
+
+.red-left {
+    background: linear-gradient(rgba(129, 0, 0, 0.75), rgba(129, 0, 0, 0.75)),
+    url("assets/images/red-left.jpg");
+}
+
+.red-center {
+    background: linear-gradient(rgba(129, 0, 0, 0.75), rgba(129, 0, 0, 0.75)),
+    url("assets/images/red-center.jpg");
+}
+
+.red-right {
+    background: linear-gradient(rgba(129, 0, 0, 0.75), rgba(129, 0, 0, 0.75)),
+    url("assets/images/red-right.jpg");   
+}
+
+.ghostbox {
+    background: white;
+    opacity: 0;
+}
+
+.section-red:hover .ghostbox{
+    opacity: 0.5;
+    transition: .5s ease;
+}
+
+
+
+/* Footer */
+.section-footer {
+
+}
