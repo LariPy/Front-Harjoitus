@@ -77,8 +77,25 @@ fastcomet host juttua jos harjottelee web
 jotain materiaalia?
 https://blog.logrocket.com/8-ways-deploy-react-app-free/
 https://www.mongodb.com/languages/mern-stack-tutorial
+https://pages.github.com/
+
 
 esimerkki portfolioita:
 https://thewonderjam.com/
 https://www.olivier-guilleux.com/
 https://www.evekayser.com.br/
+
+
+certificate juttua
+https://explore.skillbuilder.aws/learn
+https://aws.amazon.com/certification/
+
+
+materiaaleja
+geeksforgeeks create relationship in mongodb
+
+https://www.jetbrains.com/academy/
+https://www.freecodecamp.org/news/tag/full-stack/
+
+https://handlebarsjs.com/guide/
+https://www.bezkoder.com/react-jwt-auth/
