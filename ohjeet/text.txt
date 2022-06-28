@@ -69,3 +69,5 @@ se alapuoli on tummempi
 sitten muuta pientä
 
 -----
+
+fastcomet host juttua jos harjottelee web
