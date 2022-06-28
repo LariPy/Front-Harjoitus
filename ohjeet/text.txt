@@ -90,6 +90,8 @@ certificate juttua
 https://explore.skillbuilder.aws/learn
 https://aws.amazon.com/certification/
 
+https://aws.amazon.com/blogs/training-and-certification/make-the-most-of-free-training-from-aws-training-and-certification/
+
 
 materiaaleja
 geeksforgeeks create relationship in mongodb
