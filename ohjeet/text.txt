@@ -71,3 +71,14 @@ sitten muuta pientä
 -----
 
 fastcomet host juttua jos harjottelee web
+
+-----
+
+jotain materiaalia?
+https://blog.logrocket.com/8-ways-deploy-react-app-free/
+https://www.mongodb.com/languages/mern-stack-tutorial
+
+esimerkki portfolioita:
+https://thewonderjam.com/
+https://www.olivier-guilleux.com/
+https://www.evekayser.com.br/
